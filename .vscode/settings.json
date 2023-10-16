@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "FACTURACIÓN.RADIATORS.C": "cpp"
-    }
+        "FACTURACIÓN.RADIATORS.C": "cpp",
+        "DEBER_PROGRAMACIÓN.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
